@@ -1,0 +1,4000 @@
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+
+
+An operating system manages computer hardware and software resources.
+Processes are programs in execution.
+Threads are lightweight processes.
+CPU scheduling determines which process gets processor access.
+Virtual memory allows programs to execute using more memory than physically available.
+Deadlocks occur when processes wait indefinitely for resources.
+

@@ -1,0 +1,13 @@
+I enjoy building projects because every project teaches me something new.
+
+I learn concepts best by implementing them from scratch.
+
+I prefer understanding why something works instead of memorizing formulas.
+
+Deep learning became much easier to understand after building a CNN from scratch.
+
+Training a small language model on my own notes feels exciting because it makes the concepts tangible.
+
+I want to become an engineer who understands systems deeply and can build intelligent applications from first principles.
+
+Curiosity is the main reason I enjoy studying artificial intelligence and machine learning.
